@@ -1,1 +1,2 @@
-# CodSoft
+# Data Science Internship at CodSoft
+This repository contains the work I've been involved with during my Data Science internship at CodSoft. My internship focuses on applying data science techniques to solve real-world problems, including data cleaning, exploratory analysis, predictive modeling, and machine learning. I have worked on projects related to data preprocessing, building machine learning models, and performing exploratory data analysis using Python and various libraries like Pandas, Scikit-learn, Matplotlib, and Seaborn. This repository showcases my hands-on experience in data science and my contributions to the CodSoft team.
